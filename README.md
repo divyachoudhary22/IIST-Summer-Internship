@@ -1,5 +1,4 @@
-# IIST-Summer-Internship
-#Abstract
+# Abstract
 This project explores the buckling behavior of dished shallow shells subjected to uniform external pressure, with particular emphasis on the influence of geometric imperfections. Such shells—commonly used in aerospace, marine, and structural applications are prone to sudden snap-through buckling, making reliable design essential.
 
 A finite element framework was established in Abaqus, employing S4R shell elements to model the dished geometry and material properties representative of thin metallic shells. Both linear eigenvalue analysis and nonlinear Riks analysis were used to investigate ideal (perfect) shell responses, capturing critical buckling modes and postbuckling paths.
